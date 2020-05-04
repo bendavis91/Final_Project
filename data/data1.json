@@ -1,0 +1,21 @@
+{
+	"events": [
+		{
+			"name": "Benjamin Davis",
+            "aboutMe": "I'm currently a student at UNA working on a degree in Information Technology. I hope to one day have a nice job in the tech industry! ",
+            "profilePic": "img/sup.jpg",
+            "profiles": "This is my GitHub profile.",
+            "projectInfo": "Here is a few links to my most recent projects I've been working on.",
+            "github": "https://github.com/bendavis91",
+            "usefulLinks": "Here is a list of links with their information that I find helpful for Web Development.",
+            "link1": "https://www.w3schools.com/",
+            "link2": "https://validator.w3.org/nu/",
+            "link3": "https://codepen.io/",
+            "link4": "https://wave.webaim.org/",
+            "linkDescription": "W3C Schools is a great source of information for finding anything you need to know about web development. Nuchecker is a way for you to check your code for any possible errors. Codepen.io is an online web development environment for you to create projects. WAVE is another tool used to check your code for accessibilty.",
+            "project1": "https://bendavis91.github.io/Dev09_JqueryInputs-Outputs/",
+            "project2": "https://bendavis91.github.io/Dev08_myListKing/",
+            "newInfo": "Here you can type whatever you want in my bio."
+        }
+    ]
+}
